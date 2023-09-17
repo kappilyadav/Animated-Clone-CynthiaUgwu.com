@@ -1,4 +1,4 @@
-# Animated Replica of CynthiaUgwu.com
+# CynthiaUgwu.com Replica
 
 I'm excited to unveil a testament to my skills in CSS & JS - a captivating, responsive replica of CynthiaUgwu.com.
 
