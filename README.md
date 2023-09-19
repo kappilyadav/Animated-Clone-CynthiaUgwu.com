@@ -11,7 +11,7 @@ I'm excited to unveil a testament to my skills in CSS & JS - a captivating, resp
     ✅ HTML, ✅ CSS, ✅ JS
 
 ## Links:
-GitHub Repo: (https://github.com/kappilyadav/CynthiaUgwu-Clone/)
+GitHub Repo: https://github.com/kappilyadav/CynthiaUgwu-Clone
 <br/>
 View Demo: https://kappilyadav.github.io/CynthiaUgwu-Clone
 
