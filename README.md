@@ -11,9 +11,9 @@ I'm excited to unveil a testament to my skills in CSS & JS - a captivating, resp
     ✅ HTML, ✅ CSS, ✅ JS
 
 ## Links:
-GitHub Repo: https://lnkd.in/dGJc4Dkb
+GitHub Repo: [https://lnkd.in/dGJc4Dkb](https://github.com/kappilyadav/CynthiaUgwu-Clone/)
 <br/>
-View Demo: https://lnkd.in/d2J_-2Kh
+View Demo: [https://lnkd.in/d2J_-2Kh](https://kappilyadav.github.io/Animated-Clone-CynthiaUgwu.com/)
 
 💡 Note: The animations are fully functional only for desktop
 
