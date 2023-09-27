@@ -1,6 +1,6 @@
-# CynthiaUgwu.com Replica
+# CynthiaUgwu
 
-I'm excited to unveil a testament to my skills in CSS & JS - a captivating, responsive replica of CynthiaUgwu.com.
+I'm excited to unveil a testament to my skills in CSS & JS - a captivating, responsive website.
 
 ## What I Used: 
     ✅ Used GSAP for Animations
@@ -11,9 +11,9 @@ I'm excited to unveil a testament to my skills in CSS & JS - a captivating, resp
     ✅ HTML, ✅ CSS, ✅ JS
 
 ## Links:
-GitHub Repo: https://github.com/kappilyadav/CynthiaUgwu-Clone
+GitHub Repo: https://github.com/kappilyadav/CynthiaUgwu
 <br/>
-View Demo: https://kappilyadav.github.io/CynthiaUgwu-Clone
+View Demo: https://kappilyadav.github.io/CynthiaUgwu
 
 💡 Note: The animations are fully functional only for desktop
 
